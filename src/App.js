@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
     <div>
-    only compatible with the Goreli testnet
+    only compatible with the Binance Smart Chain on testnet
     <Card.Body>
     <Container>
     <Row className="justify-content-md-center">
